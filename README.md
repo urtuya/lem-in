@@ -10,6 +10,7 @@ make
 
 
 map contains points with coordinates
+
 ##start x y
 
 point x3 y3
